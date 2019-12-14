@@ -1,13 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\components",
-    "\\components\\Cards",
     "\\components\\Carousel",
     "\\components\\Header",
-    "\\components\\Tabs",
-    "\\CSS"
+    "\\components\\Tabs"
   ],
-  "SelectedNode": "\\components\\Header\\index.js",
+  "SelectedNode": "\\index.html",
   "PreviewInSolutionExplorer": false
 }
